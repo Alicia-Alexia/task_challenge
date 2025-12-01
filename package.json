@@ -1,0 +1,12 @@
+{
+  "name": "challenge_task",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  }
+}
